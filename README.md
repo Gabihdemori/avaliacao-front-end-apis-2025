@@ -17,7 +17,7 @@ O objetivo deste desafio é avaliar suas habilidades em desenvolvimento de pági
 ![Tela de Login](Login.png)
 ![Tela Inicial](Tela inicial.png)
 ![Tela de Pesquisa](Tela de pesquisa.png)
-![Tela de Detalhe](Tela de detalhe.png)
+![Tela de Detalhe](https://github.com/Gabihdemori/avaliacao-front-end-apis-2025/blob/76b638230c839fe035366181ecc3de9c9810a3a1/Tela%20de%20detalhe.png)
 
 ## Funcionalidades
 
